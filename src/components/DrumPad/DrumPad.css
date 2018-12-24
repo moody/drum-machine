@@ -1,0 +1,18 @@
+.drum-pad {
+  background: rgba(255, 255, 240, 0.5);
+  color: rgba(0, 0, 0, 0.6);
+  border-radius: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.4em;
+  font-weight: 700;
+  min-width: 150px;
+  min-height: 150px;
+  margin: 5px;
+  text-transform: uppercase;
+}
+
+.drum-pad:hover {
+  cursor: pointer;
+}
